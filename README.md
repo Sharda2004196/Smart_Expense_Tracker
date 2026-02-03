@@ -23,5 +23,4 @@ This project demonstrates **modular coding, object-oriented programming, and pro
     - Show all expenses
     - Show category-wise summary
     - Exit
-- The tracker displays clean, readable outputs in the conso
-# 
+- The tracker displays clean, readable outputs in the console
